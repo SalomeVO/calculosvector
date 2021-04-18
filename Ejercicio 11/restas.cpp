@@ -1,7 +1,3 @@
-/*Ingeneria en Sistemas
-Mercy Salome Vásquez Ortiz
-carnet: 0909-20-5202
-Tercer Semestre*/
 
 //Declaracion de librerias 
 #include <iostream>
@@ -79,8 +75,3 @@ int main() {
 	_getch();  //Detener programa para visualizar
 	return 0;
 } //Fin del programa
-
-/*Ingeneria en Sistemas
-Mercy Salome Vásquez Ortiz
-carnet: 0909-20-5202
-Tercer Semestre*/ 
